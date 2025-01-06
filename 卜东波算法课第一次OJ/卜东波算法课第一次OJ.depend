@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1694777251 source:c:\users\10562\desktop\总领文件夹\文件数据\code\卜东波算法课第一次oj\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cmath>
+	<iomanip>
+	<sstream>
+	<map>
+	<set>
+	<queue>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1691767366 source:c:\users\10562\desktop\总领文件夹\文件数据\code\class2\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<random>
+

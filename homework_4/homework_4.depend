@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700657138 source:c:\users\10562\desktop\总领文件夹\文件数据\code\homework_4\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

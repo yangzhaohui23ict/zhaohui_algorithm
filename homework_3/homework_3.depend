@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1699875768 source:c:\users\10562\desktop\总领文件夹\文件数据\code\homework_3\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<string>
+	<cstdlib>
+	<ctime>
+	<math.h>
+

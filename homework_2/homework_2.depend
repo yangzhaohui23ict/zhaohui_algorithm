@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1697614573 source:c:\users\10562\desktop\总领文件夹\文件数据\code\homework_2\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+	<iostream>
+	<vector>
+	<math.h>
+	<iomanip>
+
